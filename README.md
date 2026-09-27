@@ -89,5 +89,3 @@ Adaptivity partially mitigates stagnation. The main proposed extension is **Bloc
 - **Section 3:** Pseudo-stress formulation and PolyDG–Crank–Nicolson discretization.
 - **Section 4:** Flow simulations, stagnation analysis, and adaptive solver results.
 - **Section 5:** Conclusions and proposed extensions.
-
-This README summarizes the supplied report. It does not document a verified software distribution or provide installation and execution instructions.
